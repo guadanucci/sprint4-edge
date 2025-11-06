@@ -66,3 +66,10 @@ except KeyboardInterrupt:
 pip install paho-mqtt
 
 python simulador_passa_a_bola.py
+
+
+# Integrantes:
+
+-Kauan Guadanucci RM562115
+-Mateus Araujo RM562008
+-Luis Mattos RM561676
